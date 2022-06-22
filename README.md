@@ -1,8 +1,10 @@
 ### Hey there 👋
 I'm Daniel Santos
 
-Here are some things that I would like to show you
+Here are some things that I'm learning and that I would like to show you
 
-I'm recently graduated in Analyst and Development of Systems
+In 2021 I graduated in Analyst and Development of Systems
 
-Looking for my first job as Developer
+Looking for my first job as Back-end Developer
+
+Knoledge in Javascript, Node.js, Express.js, RestAPI, MongoDB, MySQL.
