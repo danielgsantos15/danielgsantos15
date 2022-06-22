@@ -7,7 +7,7 @@ My presentation Website with some informations about me: https://danielgsantos15
 
 In 2021 I graduated in ADS from UNINOVE
 
-In love with Javascript, Node.js and all related of Back-end
+Fallin love with Javascript, Node.js and all related of Back-end
 
 Updating my skils in Express.js, RestAPI, MongoDB, MySQL
 
