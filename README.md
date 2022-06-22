@@ -1,10 +1,14 @@
 ### Hey there 👋
-I'm Daniel Santos
+My name is Daniel Santos from Brazil and I am Back-end Developer
 
 Here are some things that I'm learning and that I would like to show you
 
-In 2021 I graduated in Analysis and Development of Systems
+My presentation Website with some informations about me: https://danielgsantos15-curriculo.herokuapp.com/
 
-Looking for my first job as Back-end Developer
+In 2021 I graduated in ADS from UNINOVE
 
-Knoledge in Javascript, Node.js, Express.js, RestAPI, MongoDB, MySQL.
+In love with Javascript, Node.js and all related of Back-end
+
+Updating my skils in Express.js, RestAPI, MongoDB, MySQL
+
+Who's Dev don't fear!
