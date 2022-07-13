@@ -9,6 +9,6 @@ In 2021 I graduated in ADS from UNINOVE
 
 Passionate about Javascript, Node.js and all related of Back-end
 
-Updating my skils in Express.js, RestAPI, MongoDB, MySQL
+Updating my skils in Express.js, RestAPI, Python, MongoDB, MySQL
 
 Who's Dev don't fear!
