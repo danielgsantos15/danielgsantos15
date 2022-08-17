@@ -5,8 +5,6 @@ Here are some things that I'm learning and that I would like to show you
 
 My presentation Website with some informations about me: https://danielgsantos15-curriculo.herokuapp.com/
 
-In 2021 I graduated in ADS from UNINOVE
-
 Passionate about Javascript, Node.js and all related of Back-end
 
 Updating my skils in Express.js, RestAPI, Python, MongoDB, MySQL
