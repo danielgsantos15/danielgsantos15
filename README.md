@@ -7,6 +7,8 @@ My presentation Website with some informations about me: https://danielgsantos15
 
 Passionate about Javascript, Node.js and all related of Back-end
 
-Updating my skils in Express.js, RestAPI, Python, MongoDB, MySQL
+Updating my skils in Express.js, RestAPI, MongoDB, MySQL
+
+LinkedIn: https://bityli.com/VlwnzXSC
 
 Who's Dev don't fear!
